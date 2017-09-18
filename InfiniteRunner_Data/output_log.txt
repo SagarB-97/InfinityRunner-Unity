@@ -1,0 +1,48 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R5 M330 (ID=0x6660)
+    Vendor:   ATI
+    VRAM:     2040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  1.055 seconds
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rahul\Desktop\InfiniteRunner_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'collide') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'collide') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1510)
+
+The referenced script on this Behaviour (Game Object 'Spawner') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 3.080090 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2528 -> priority: 1 
